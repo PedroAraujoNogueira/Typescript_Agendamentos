@@ -14,7 +14,7 @@ que exigem agendamentos de horários.
 ### Requisitos de software e bibliotecas:  
 
 -> Node  
--> yarn ou npm
+-> yarn ou npm  
 -> momentjs   
 
 ### Links úteis:  
